@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
 <img align="right" alt="coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"
+     
 - 🔭 I’m currently working on [Diploma in Enterprise Systems Analysis and Design - J2EE (ESAD - J2EE)](https://www.isdb-bisew.org/)
+     
 - 🌱 I’m currently learning **Spring Boot**
+     
 - 👨‍💻 All of my projects are available at [https://github.com/Rashedul8003?tab=repositories](https://github.com/Rashedul8003?tab=repositories)
+     
 - 📝 I regularly write articles on [GitHub](GitHub)
+     
 - 💬 Ask me about **Java**
+     
 - 📫 How to reach me **rashedul8003@gmail.com**
+     
 - 📄 Know about my experiences [rashedul8003.github.io/MY-CV](rashedul8003.github.io/MY-CV)
+     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashedul_1slam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedul_1slam" height="30" width="40" /></a>
