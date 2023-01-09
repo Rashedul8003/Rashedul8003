@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
-<img align="right" alt="coding" width="800" src="[https://www.inventateq.com/assets/python/small.gif](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)"
+<img align="right" alt="coding" width="800" src="https://www.inventateq.com/assets/python/small.gif](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"
      
 - 🌱 I’m currently learning **Spring Boot**  
 - 📝 I regularly write articles on [GitHub](GitHub)     
