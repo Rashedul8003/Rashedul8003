@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
-<img align="right" alt="coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedul8003" alt="rashedul8003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rashedul_1slam" target="blank"><img src="#" alt="rashedul_1slam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rashedul_1slam" target="blank"><img src="https://img.shields.io/twitter/follow/rashedul_1slam?logo=twitter&style=for-the-badge" alt="rashedul_1slam" /></a> </p>
 
 - 🔭 I’m currently working on [Diploma in Enterprise Systems Analysis and Design - J2EE (ESAD - J2EE)](https://www.isdb-bisew.org/)
 
@@ -20,7 +20,6 @@
 - 📄 Know about my experiences [rashedul8003.github.io/MY-CV](rashedul8003.github.io/MY-CV)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"
 <p align="left">
 <a href="https://twitter.com/rashedul_1slam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedul_1slam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashed-ul-ba1011243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashed-ul-ba1011243/" height="30" width="40" /></a>
