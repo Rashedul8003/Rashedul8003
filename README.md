@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
-<img align="right" alt="coding" width="" src="[https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)"
+<img align="right" alt="coding" width="" src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966"
      
 - 🌱 I’m currently learning **Spring Boot**  
 - 📝 I regularly write articles on [GitHub](GitHub)     
