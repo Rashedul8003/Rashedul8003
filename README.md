@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
-<img align="right" alt="coding" width="650" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"
+<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"
      
      
      
