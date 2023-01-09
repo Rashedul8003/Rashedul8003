@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedul8003" alt="rashedul8003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rashedul_1slam" target="blank"><img src="https://img.shields.io/twitter/follow/rashedul_1slam?logo=twitter&style=for-the-badge" alt="rashedul_1slam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rashedul_1slam" target="blank"><img src="#" alt="rashedul_1slam" /></a> </p>
 
 - 🔭 I’m currently working on [Diploma in Enterprise Systems Analysis and Design - J2EE (ESAD - J2EE)](https://www.isdb-bisew.org/)
 
