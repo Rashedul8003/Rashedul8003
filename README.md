@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"
 
 
-<p align="left"> <a href="https://twitter.com/rashedul_1slam" target="blank"><img src="https://img.shields.io/twitter/follow/rashedul_1slam?logo=twitter&style=for-the-badge" alt="rashedul_1slam" /></a> </p>
+
 
 - 🔭 I’m currently working on [Diploma in Enterprise Systems Analysis and Design - J2EE (ESAD - J2EE)](https://www.isdb-bisew.org/)
 
