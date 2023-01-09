@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on [GitHub](GitHub)     
 - 💬 Ask me about **Java**
 - 📫 How to reach me **rashedul8003@gmail.com**
-- 📄 Know about my experiences https://rashedul8003.github.io/MY-CV/
+- 📄 Know about me https://rashedul8003.github.io/MY-CV/
      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
