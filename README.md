@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
+<h3 align="center">JR.SOFTWARE DEVELOPER (FLUTTER)</h3>
+<h3 align="center">Code Ware Ltd</h3>
+<h4 align="center">
+House #629-685, Road # 12, Baitul Aman Housing
+Society, Adabor, Mohammadpur, Dhaka-1207, BD.
+Mobile: +8801672691228, +8801614000401
+Email: info@codewareltd.com
+</h4>
 <h3 align="center">Student of JEE at IDB-BISEW</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"
      
@@ -9,9 +17,8 @@
      
      
      
-- 🌱 I’m currently learning **Spring Boot**  
-- 📝 I regularly write articles on [GitHub](GitHub)     
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Flutter & Dart**    
+- 💬 Ask me about **Flutter**
 - 📫 How to reach me **rashedul8003@gmail.com**
 - 📄 Know about me https://rashedul8003.github.io/MY-CV/
      
